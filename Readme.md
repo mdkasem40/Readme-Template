@@ -87,7 +87,7 @@ https://www.github.com
 
 ![Banner Image](./images/banner-photo.jpg)
 
-<img src="./images/banner-photo.jpg" width="300" cd
+<img src="./images/banner-photo.jpg" width="300">
 
 <br>
 

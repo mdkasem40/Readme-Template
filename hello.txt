@@ -1,1 +1,2 @@
 this is line 1 data in hello file 
+this is line 2 data in hello file from master branch
